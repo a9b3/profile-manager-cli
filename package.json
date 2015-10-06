@@ -1,0 +1,18 @@
+{
+  "name": "profile-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Lau <sam.suifai.lau@gmail.com> (http://esayemm.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "yargs": "^3.26.0"
+  },
+  "bin": {
+      "profile-manager": "index.js"
+  }
+}
