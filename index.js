@@ -64,7 +64,7 @@ const profiles = {
             email: 'esayemm@gmail.com',
         },
         vimrc: {
-            tabs: '4',
+            tabs: '2',
         },
     },
     work: {
